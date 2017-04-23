@@ -1,4 +1,3 @@
-# WebGL Water Demo
+# download all files "git clone https://github.com/haykpilosyan/water-js-code.git"
 
-http://madebyevan.com/webgl-water/
 # water-js-code
